@@ -1,0 +1,10 @@
+C:\Users\Dennis\Documents\Visual Studio 2013\Projects\Orbit_\Orbit_\obj\Debug\Orbit_.Form1.resources
+C:\Users\Dennis\Documents\Visual Studio 2013\Projects\Orbit_\Orbit_\obj\Debug\Orbit_.Properties.Resources.resources
+C:\Users\Dennis\Documents\Visual Studio 2013\Projects\Orbit_\Orbit_\obj\Debug\Orbit_.csproj.GenerateResource.Cache
+C:\Users\Dennis\Documents\Visual Studio 2013\Projects\Orbit_\Orbit_\bin\Debug\Orbit_.exe.config
+C:\Users\Dennis\Documents\Visual Studio 2013\Projects\Orbit_\Orbit_\bin\Debug\Orbit_.exe
+C:\Users\Dennis\Documents\Visual Studio 2013\Projects\Orbit_\Orbit_\bin\Debug\Orbit_.pdb
+C:\Users\Dennis\Documents\Visual Studio 2013\Projects\Orbit_\Orbit_\obj\Debug\Orbit_.exe
+C:\Users\Dennis\Documents\Visual Studio 2013\Projects\Orbit_\Orbit_\obj\Debug\Orbit_.pdb
+C:\Users\Dennis\Documents\Visual Studio 2013\Projects\Orbit_\Orbit_\obj\Debug\Orbit_.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Documents\Visual Studio 2013\Projects\Orbit_\Orbit_\obj\Debug\Orbit_.fSettings.resources
